@@ -13,6 +13,7 @@ soundfile = "*"
 ipykernel = "*"
 openai-whisper = "*"
 yt-dlp = "*"
+faster-whisper = "*"
 
 [dev-packages]
 
