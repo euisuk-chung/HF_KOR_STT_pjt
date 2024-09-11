@@ -14,6 +14,10 @@ ipykernel = "*"
 openai-whisper = "*"
 yt-dlp = "*"
 faster-whisper = "*"
+jpype1 = "*"
+nltk = "*"
+konlpy = "*"
+validators = "*"
 
 [dev-packages]
 
